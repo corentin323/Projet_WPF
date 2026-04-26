@@ -65,6 +65,8 @@ CREATE TABLE HeroSpell (
 ```
 
 ### 2. Initialiser les données
+-Ouvrir le dossier PRojet_NPF 
+-Ouvrir encor le dossier PRojet_NPF
 - Lancer l'application
 - Cliquer sur **⚙**
 - Vérifier la chaîne de connexion
